@@ -1,6 +1,6 @@
 # API PIX GERENCIANET
 
-A API Pix Gerencianet disponibiliza o serviço de pagamento através do pix. Com essa API é possível criar cobranças e utilizar o webhhok.
+A API Pix Gerencianet disponibiliza o serviço de pagamento através do pix. Com essa API é possível criar cobranças e utilizar o webhook.
 
 ## Configurações
 Para integrar a API Pix Gerencianet ao seu sistema ou sua plataforma, é necessário ter uma Conta Digital Gerencianet.
