@@ -13,4 +13,4 @@ No menu à esquerda, clique em "Minhas Aplicações" e "Nova Aplicação"
 Habilite a API Pix e escolha os escopos que deseja liberar em ambiente de Produção e Homologação (você pode editá-los no futuro);
 Com os escopos selecionados, clique em "Criar nova aplicação".
 
-![alt text](https://github.com/patrick3s/ApiPixGerenciaNet/blob/main/images/step1.png)
+![alt text](https://github.com/patrick3s/ApiPixGerenciaNet/blob/main/assets/step1.png)
